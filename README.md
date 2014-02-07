@@ -22,6 +22,11 @@ A javascript library to communicate with RESTful web services.
 
 ##Test
 
+    npm install && bower install
+
+    Node tests
+    ./node_modules/mocha/bin/mocha test/node/test.js
+
 [How do people run the tests?]
 
 [How do people run automated tests?]

@@ -11,5 +11,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "v1.11.0",
+    "lodash": "~2.4.1"
+  }
 }
